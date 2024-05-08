@@ -1,0 +1,12 @@
+F:\Visual_studio_projektek\felev6\Visual_studio\VillamosTest\obj\Debug\net5.0-windows\VillamosTest.Form_Game.resources
+F:\Visual_studio_projektek\felev6\Visual_studio\VillamosTest\obj\Debug\net5.0-windows\VillamosTest.Form_GameOver.resources
+F:\Visual_studio_projektek\felev6\Visual_studio\VillamosTest\obj\Debug\net5.0-windows\VillamosTest.Form_Help.resources
+F:\Visual_studio_projektek\felev6\Visual_studio\VillamosTest\obj\Debug\net5.0-windows\VillamosTest.Form_MainMenu.resources
+F:\Visual_studio_projektek\felev6\Visual_studio\VillamosTest\obj\Debug\net5.0-windows\VillamosTest.Form_ScoreBoard.resources
+F:\Visual_studio_projektek\felev6\Visual_studio\VillamosTest\obj\Debug\net5.0-windows\VillamosTest.Form_Settings.resources
+F:\Visual_studio_projektek\felev6\Visual_studio\VillamosTest\obj\Debug\net5.0-windows\Combine.Properties.Resources.resources
+F:\Visual_studio_projektek\felev6\Visual_studio\VillamosTest\obj\Debug\net5.0-windows\Combine.csproj.GenerateResource.cache
+F:\Visual_studio_projektek\felev6\Visual_studio\VillamosTest\obj\Debug\net5.0-windows\Combine.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual_studio_projektek\felev6\Visual_studio\VillamosTest\obj\Debug\net5.0-windows\Combine.AssemblyInfoInputs.cache
+F:\Visual_studio_projektek\felev6\Visual_studio\VillamosTest\obj\Debug\net5.0-windows\Combine.AssemblyInfo.cs
+F:\Visual_studio_projektek\felev6\Visual_studio\VillamosTest\obj\Debug\net5.0-windows\Combine.csproj.CoreCompileInputs.cache

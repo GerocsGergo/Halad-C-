@@ -1,0 +1,5 @@
+difficulty Easy
+up w
+down s
+right d
+left a
